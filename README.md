@@ -16,9 +16,9 @@ L'application se concentre sur les conseils de pêche dans la zone géographique
 ## Démarrage
  
 Dans votre terminal effectuer la commande suivante en étant dans le répertoire "GoFish" :  
-**python GoFish.py**
-ou
-executer le fichier GoFish.bat
+**python GoFish.py**  
+ou  
+executer le fichier GoFish.bat  
  
 ## Fonctionnement
  
